@@ -1,0 +1,30 @@
+[
+  {
+    "university": "Massachusetts Institute of Technology",
+    "scholarship": "Need-Based Financial Aid (covers full demonstrated need)",
+    "deadline": "2024-01-05",
+    "website": "https://mitadmissions.org/apply/international/",
+    "notes": "No separate scholarship application; apply for admission and financial aid."
+  },
+  {
+    "university": "University of Oxford",
+    "scholarship": "Reach Oxford Scholarship",
+    "deadline": "2024-02-07",
+    "website": "https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/oxford-support/reach-oxford-scholarship",
+    "notes": "For applicants from low-income countries."
+  },
+  {
+    "university": "University of Toronto",
+    "scholarship": "Lester B. Pearson International Scholarship",
+    "deadline": "2024-01-15",
+    "website": "https://future.utoronto.ca/pearson/about/",
+    "notes": "For international students; requires nomination by school."
+  },
+  {
+    "university": "Duke University",
+    "scholarship": "Karsh International Scholarship",
+    "deadline": "2024-01-02",
+    "website": "https://karshscholars.duke.edu",
+    "notes": "Requires separate scholarship application."
+  }
+]
